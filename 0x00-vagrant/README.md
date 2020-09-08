@@ -1,1 +1,1 @@
-** Uname **
+LINUX
